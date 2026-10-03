@@ -5,6 +5,8 @@ How does the Universe decide what is real? At the subatomic scale, nature is a w
 
 As Zurek jokingly notes, this is the exact reason why a chef can never prepare "chicken à la Schrödinger" - a macroscopic object caught in a blurry, ongoing superposition of being simultaneously cooked and alive. The environment-driven process of decoherence instantly steps in to banish these flagrant manifestations of quantum weirdness from our daily lives [9].
 
+The Jupyter Notebook for simulating decoherence, einselection, and the redundancy plateau is: https://github.com/AnaKhromova/Quantum-Darwinism/blob/main/decoherence.ipynb
+
 # References
 [1] Zurek, W. H. (2003). "Decoherence, einselection, and the quantum origins of the classical." Reviews of Modern Physics, 75(3), 715–775.
 
